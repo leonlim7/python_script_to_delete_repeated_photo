@@ -1,11 +1,7 @@
 import os
-from tkinter import image_names
 from PIL import Image,ImageStat
 import time
-from tabulate import tabulate
-from prettytable import PrettyTable
 import os
-import shutil
 from PIL import Image, ImageFile
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
